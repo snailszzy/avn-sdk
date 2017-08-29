@@ -2,6 +2,7 @@ Mobile app designs
 
 http://beautifulpixels.com/
 http://app.itize.us/
+
 UI Design Patterns
 
 ui4app按照选项卡、导航条、搜索框等分类，不提供下载源文件，仅供参考
